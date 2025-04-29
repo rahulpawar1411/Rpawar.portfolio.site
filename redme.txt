@@ -1,0 +1,22 @@
+1.  function loco = "yeh function smooth scrolling ke liye hai using GSAP".
+
+2. function openNave and closeNav = " yeh nav ko open and close mai help krta hai".
+
+3. function project = "project secion m  mouse img effect or click krne pr project opne hota hai ".
+
+4. function bubBtn, bubsubmit = "yeh bubble type ka btn hai jo ki mouse move krne pr sath sath move hota hai".
+
+5. function loader = "isme preloader or page1 ki animation hai".
+
+
+[responsive mai screen size ===>  ( 360 x 680 ) ka use kr ke kiya hai,]
+
+
+[formsubmiting ke liye youtube like === https://youtu.be/RaU_n4vcfiA?si=JmAAFvJxN2Y4sRsu ] 
+
+
+
+
+
+---------------------------------------------page5 ka code-------------------------------------->
+
