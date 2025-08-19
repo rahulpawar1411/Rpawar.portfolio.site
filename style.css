@@ -419,12 +419,14 @@ a:active {
     padding-top: 10px;  
     margin: 10px;
     font-family: font2;
+    /* background-color: green; */
 }
 
 .probox p{
+    font-size: 14px;
     margin:0 10px;
     font-family: font3;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     /* background-color: red; */
 }
 
@@ -1254,11 +1256,11 @@ a:active {
     color: #fff;
     border-radius: 15px;
     overflow: hidden;
-   
+    /* pointer-events: none; */
 }
 #page2 #pro-cantain .probox2{
     margin-top: 20px;
-   
+   /* background-color: red; */
 }
 
 #page2 #pro-cantain .probox .imgdiv{
